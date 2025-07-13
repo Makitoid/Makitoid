@@ -1,7 +1,6 @@
-## 👋Hi~
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng+&pause=1000&color=000000&width=435&lines=%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83++%E6%96%B9%E5%BE%97%E5%A7%8B%E7%BB%88)](https://git.io/typing-svg)
-
+##Hi！
 A stupid teenager who use github to find awsome softwares and report bugs...                         
+![OPPO](https://img.shields.io/badge/OPPO_Reno_12_Pro-%0d5e1ecc?style=flat&logo=oppo&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik02LDZoMTd2MTdINlY2eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNS4wNDIsMjIuOTU4VjZINDJ2MTYuOTU4SDI1LjA0MnoiLz48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNNiwyNWgxN3YxN0g2VjI1eiIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yNSw0MlYyNWgxN3YxN0gyNXoiLz48L3N2Zz4=) [![bilibili](https://img.shields.io/badge/-Makitoid-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/1575907920)
 
 ## 🆒Awsome repositories recommendation！
 [![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)[![baichuan-inc/Baichuan-Audio](https://github-readme-stats.vercel.app/api/pin/?username=baichuan-inc&repo=Baichuan-Audio&show_owner=true)](https://github.com/baichuan-inc/Baichuan-Audio)
