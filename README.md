@@ -2,7 +2,7 @@
 ### Hi！👋👋👋
 A teenager who use github to find awsome softwares and report bugs... 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Makitoid&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="GitHub 统计数据" height="180"/>[!
+<img src="https://github-readme-stats.vercel.app/api?username=Makitoid&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&cache_bust=1" alt="GitHub 统计数据" height="180"/>
 ### My devices
 ![OPPO](https://img.shields.io/badge/OPPO_Reno_12_Pro-017335?style=flat&logo=oppo&logoColor=white) ![OPPO](https://img.shields.io/badge/OPPO_Pad_3_柔光版-017335?style=flat&logo=oppo&logoColor=white) ![Lenovo](https://img.shields.io/badge/Legion_R9000p_2025-ff3a2b?style=flat&logo=lenovo&logoColor=white) 
 ### Contact me
