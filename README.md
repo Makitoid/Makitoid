@@ -1,4 +1,5 @@
 ### Hi！👋👋👋
+
 A teenager who use github to find awsome softwares and report bugs... 
 ---
 ### My devices
