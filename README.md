@@ -3,5 +3,5 @@ A normal teenager.
 ### Contact me
 [![mail](https://img.shields.io/badge/-makitoidyyds@gmail.com-blue?style=flat&logo=mailboxdotorg&logoColor=white)](mailto:makitoidyyds@gmail.com) [![telegram](https://img.shields.io/badge/-Makitoid-%2481cc?color=ffffff&style=flat&logo=telegram)](https://t.me/makitoid)
 
-<img src="https://github-readme-stats-indol-phi-94.vercel.app/api?username=Makitoid&show=reviews,prs_merged&show_icons=true&include_all_commits=true&count_private=true&number_format=long&theme=transparent&locale=zh" /><img src="https://github-readme-stats-indol-phi-94.vercel.app/api/top-langs/?username=Makitoid&theme=transparent&locale=cn" />
+<img src="https://github-readme-stats-indol-phi-94.vercel.app/api?username=Makitoid&show=reviews,prs_merged&show_icons=true&include_all_commits=true&count_private=true&number_format=long&theme=transparent&locale=en" />&emsp; <img src="https://github-readme-stats-indol-phi-94.vercel.app/api/top-langs/?username=Makitoid&theme=transparent&locale=en" />
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=makitoid&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
